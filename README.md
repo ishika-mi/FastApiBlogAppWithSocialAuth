@@ -1,1 +1,1 @@
-# FastApiBlogAppWithSocialAuth
+# UserAuthFastApi
